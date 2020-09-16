@@ -85,6 +85,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.16.2"
+  dio:
+    dependency: "direct main"
+    description:
+      name: dio
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "3.0.10"
   glob:
     dependency: transitive
     description:
@@ -219,7 +226,7 @@ packages:
     source: hosted
     version: "1.4.4"
   shelf:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: shelf
       url: "https://pub.dartlang.org"
@@ -352,7 +359,7 @@ packages:
     source: hosted
     version: "0.7.3"
   yaml:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: yaml
       url: "https://pub.dartlang.org"
